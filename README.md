@@ -1,2 +1,2 @@
 # udemy-learning
-Respository for content related to what I am learning through Udemy Courses
+Respository for content related to Bootstrap course
